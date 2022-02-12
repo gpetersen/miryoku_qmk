@@ -11,3 +11,5 @@ jobs:
       keyboard: '["crkbd"]'
       layers: '["flip"]'
       nav: '["invertedt"]'
+      clipboard: '["win"]'
+      
