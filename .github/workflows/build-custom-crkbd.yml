@@ -1,0 +1,13 @@
+# Copyright 2021 Greg Petersen
+# https://github.com/manna-harbour/miryoku
+
+name: 'Build Custom crkbd'
+on:
+  - workflow_dispatch
+jobs:
+  build:
+    uses: manna-harbour/miryoku_qmk/.github/workflows/main.yml@miryoku
+    with:
+      keyboard: '["crkbd"]'
+      layers: '["flip"]'
+      nav: '["invertedt"]'
