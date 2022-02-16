@@ -12,4 +12,6 @@ jobs:
       layers: '["flip"]'
       nav: '["invertedt"]'
       clipboard: '["win"]'
-      force_layout: '["via"]'
+      rules: '[""]'
+      config: '[""]'
+      mapping: '["manna-harbour_miryoku"]'
