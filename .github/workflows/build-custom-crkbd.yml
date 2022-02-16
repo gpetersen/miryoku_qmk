@@ -12,4 +12,4 @@ jobs:
       layers: '["flip"]'
       nav: '["invertedt"]'
       clipboard: '["win"]'
-      
+      mapping: '["via"]'
