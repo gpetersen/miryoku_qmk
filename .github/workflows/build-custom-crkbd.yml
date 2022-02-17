@@ -12,7 +12,7 @@ jobs:
       layers: '["flip"]'
       nav: '["invertedt"]'
       clipboard: '["win"]'
-      mapping: '["manna-harbour_miryoku"]'
+      mapping: '["gpetersen"]'
       #rules: '[""]'
       #config: '[""]'
 
