@@ -13,3 +13,4 @@ include users/manna-harbour_miryoku/post_rules.mk
 
 OLED_ENABLE = yes
 OLED_DRIVER = SSD1306
+VIA_ENABLE	= yes # Enable VIA
