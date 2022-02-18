@@ -12,7 +12,7 @@ jobs:
       layers: '["flip"]'
       nav: '["invertedt"]'
       clipboard: '["win"]'
-      mapping: '["gpetersenxx"]'
+      #mapping: '[""]'
       #rules: '[""]'
       #config: '[""]'
 
